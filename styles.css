@@ -283,6 +283,8 @@ img {
 
 .contact-section-header > p {
   font-style: italic;
+  padding: 60px 20px;
+  text-align: center;
 }
 
 .contact-links {
